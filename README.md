@@ -3,9 +3,9 @@ A tool for gathering information about websites
 
 With this tool you can do the same:
 
-1. whois
+1.Domain whois Lookup
 
-2.Dns Checker
+2.Dns Check
 
 3.Port Scanner
 
