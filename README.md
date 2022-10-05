@@ -7,9 +7,6 @@ With this tool you can do the same:
 
 2.Dns Check
 
-![Uploading 0.jpg…]()
-
-
 3.Port Scanner
 
 4.Sub Domain
