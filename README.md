@@ -2,7 +2,7 @@
 A tool for gathering information about websites
 Prerequisites
 
-apt-get install python3
+apt-get install python3\n
 pip3 install builtwith
 pip3 install colorama
 pip3 install dnspython
