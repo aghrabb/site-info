@@ -3,7 +3,6 @@ A tool for gathering information about websites
 
 ![test_image_1](background.png)
 
-
 With this tool you can do the same:
 
 1.Domain whois Lookup
@@ -18,8 +17,7 @@ With this tool you can do the same:
 
 6.site information
 
-////////////////////////////
-Prerequisites
+<-----Prerequisites----->
 
 apt-get install python3
 
