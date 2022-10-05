@@ -18,7 +18,7 @@ With this tool you can do the same:
 
 6.site information
 
-
+////////////////////////////
 Prerequisites
 
 apt-get install python3
