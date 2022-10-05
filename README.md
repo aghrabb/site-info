@@ -1,5 +1,12 @@
 # site-info
 A tool for gathering information about websites
+With this tool you can do the same:
+1. whois
+2.Dns Checker
+3.Port Scanner
+4.Sub Domain
+5.Admin Page Finder
+6.site information
 
 Prerequisites
 
